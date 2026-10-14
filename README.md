@@ -71,8 +71,7 @@ My goal is to build a career in Artificial Intelligence and Information Technolo
 
 📫 Connect With Me
 
-📧 Email: "palaksher081@gmail.com" (mailto:palaksher081@gmail.com)
-
+📧 Email: "palaksher081@gmail.com"
 ---
 
 ✨ "Learning today, building tomorrow."
